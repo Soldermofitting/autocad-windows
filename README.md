@@ -4,7 +4,7 @@
 
 Autodesk AutoCAD · MoggyDay · 2026 · v2026
 
-# Autodesk AutoCAD 2026 “Pro for Windows: DWG, 2D and 3D” [v2026]
+# Autodesk AutoCAD 2026 “for Windows: DWG, 2D and 3D” [v2026]
 
 <p><img src="docs/media/logos/autocad.svg" alt="Autodesk AutoCAD" height="48"></p>
 
