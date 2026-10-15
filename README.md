@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/autocad-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/autocad-windows/?lang=en) · [Русский](https://soldermofitting.github.io/autocad-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/autocad"><img src="docs/media/preview.jpg" alt="AutoCAD preview" width="640"></a>
+</p>
+
 Autodesk AutoCAD · MoggyDay · 2026 · v2026
 
 # Autodesk AutoCAD 2026 “for Windows: DWG, 2D and 3D” [v2026]
