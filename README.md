@@ -18,7 +18,7 @@ MoggyDay keeps one stable URL for Autodesk AutoCAD: EN / RU. DWG, 2D and 3D draf
 
 1. Open [Autodesk AutoCAD EN](https://moggydayprogram.com/en/programs/autocad) or [Autodesk AutoCAD RU](https://moggydayprogram.com/programs/autocad).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Use the download button on the live card. This GitHub page does not host the installer.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
